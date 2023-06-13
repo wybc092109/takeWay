@@ -26,6 +26,7 @@ public class TestWordCount {
 
                 (map, words) -> {
                     for (String word : words) {
+                        //ksnduf
 
                         // 如果缺少一个 key，则计算生成一个 value , 然后将  key value 放入 map
                         //                  a      0
